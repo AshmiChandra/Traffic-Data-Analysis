@@ -1,0 +1,101 @@
+,Traffic_ID,Date,Time,Area,Road_Type,Weather_Condition,Vehicle_Count,Average_Speed_kmph,Congestion_Level,Accident_Reported,Traffic_Signal_Malfunction
+0,1,2025-02-24,13,Downtown,Highway,,190.0,33.4,Low,,0.0
+1,2,2025-01-03,17,Downtown,Highway,Rain,169.0,,Medium,0.0,
+2,3,2025-01-24,17,Downtown,Main Road,,,36.7,High,1.0,1.0
+3,4,2025-02-02,10,Downtown,Bridge,Fog,,,Low,0.0,1.0
+4,5,2025-02-17,2,Residential,,Storm,,54.6,Low,,1.0
+5,6,2025-03-07,23,Residential,Highway,Rain,493.0,,High,1.0,0.0
+6,7,2025-01-31,7,Industrial,,Fog,409.0,56.5,Medium,1.0,0.0
+7,8,2025-02-02,9,Residential,,,335.0,61.1,Medium,1.0,0.0
+8,9,2025-02-04,5,Residential,Highway,Rain,,,,,0.0
+9,10,2025-01-13,4,Residential,Main Road,Rain,,,,0.0,1.0
+10,11,2025-01-12,19,City Center,Tunnel,Clear,436.0,71.7,Medium,,0.0
+11,12,2025-02-20,21,Downtown,Tunnel,Cloudy,,51.7,Low,,
+12,13,2025-03-06,1,Residential,,Fog,,,Low,,
+13,14,2025-01-23,11,City Center,Main Road,Storm,,70.5,Medium,0.0,1.0
+14,15,2025-02-16,0,City Center,Highway,Storm,,,High,1.0,1.0
+15,16,2025-01-21,13,City Center,Highway,Clear,,69.0,Medium,,0.0
+16,17,2025-03-22,19,City Center,Main Road,Fog,,77.9,High,0.0,
+17,18,2025-02-25,10,Residential,Tunnel,Storm,281.0,34.9,High,1.0,
+18,19,2025-02-17,6,Industrial,Street,Rain,53.0,62.5,Medium,1.0,1.0
+19,20,2025-03-15,8,Residential,Highway,Storm,,60.1,Medium,,
+20,21,2025-02-19,4,Airport Road,Main Road,Cloudy,,31.4,,0.0,0.0
+21,22,2025-02-05,1,Airport Road,,Clear,394.0,,Low,1.0,1.0
+22,23,2025-01-17,5,City Center,Tunnel,Rain,266.0,36.7,Low,0.0,
+23,24,2025-01-09,8,Downtown,,Storm,478.0,78.1,Medium,0.0,0.0
+24,25,2025-02-11,1,Industrial,Tunnel,Clear,,,High,0.0,0.0
+25,26,2025-02-06,2,,,Storm,,,Medium,1.0,
+26,27,2025-03-04,18,City Center,Highway,,210.0,,Medium,1.0,
+27,28,2025-01-07,20,Industrial,Highway,Storm,84.0,44.2,Low,,1.0
+28,29,2025-02-05,18,,Street,Storm,,76.1,High,1.0,0.0
+29,30,2025-02-03,18,Industrial,,,,39.0,Low,0.0,
+30,31,2025-02-18,1,Downtown,Highway,Storm,,,Low,1.0,0.0
+31,32,2025-01-25,7,Industrial,Tunnel,Storm,,56.7,High,,1.0
+32,33,2025-03-22,2,Industrial,Bridge,Clear,104.0,36.3,High,1.0,
+33,34,2025-02-24,2,Residential,Street,Cloudy,178.0,,High,1.0,1.0
+34,35,2025-01-29,11,Industrial,,Fog,,,Low,1.0,1.0
+35,36,2025-03-22,15,,Main Road,Storm,,55.0,,1.0,1.0
+36,37,2025-01-27,7,Residential,Highway,Fog,157.0,,,,
+37,38,2025-01-14,4,Industrial,Main Road,Rain,261.0,,,,
+38,39,2025-03-11,4,Industrial,Bridge,Rain,453.0,43.0,,1.0,1.0
+39,40,2025-03-11,16,Airport Road,Bridge,Fog,470.0,33.4,,0.0,0.0
+40,41,2025-03-15,18,Downtown,Bridge,Fog,,,Low,1.0,0.0
+41,42,2025-01-16,5,City Center,Bridge,Clear,,,,,
+42,43,2025-01-10,20,Airport Road,Street,Rain,180.0,62.5,Medium,0.0,0.0
+43,44,2025-01-06,23,,Bridge,Storm,210.0,,High,,0.0
+44,45,2025-01-28,20,Airport Road,,Fog,333.0,,Medium,,
+45,46,2025-01-26,16,Airport Road,Street,Clear,,,,0.0,0.0
+46,47,2025-02-27,15,Industrial,Street,Cloudy,456.0,,High,1.0,1.0
+47,48,2025-02-27,9,Residential,Main Road,Rain,125.0,,Low,0.0,0.0
+48,49,2025-03-17,14,,Street,Rain,,49.7,Medium,,
+49,50,2025-01-01,11,Downtown,Tunnel,Rain,,23.0,Low,0.0,1.0
+50,51,2025-03-10,9,Airport Road,,Storm,,,,,0.0
+51,52,2025-03-18,13,Industrial,,Cloudy,,,,,1.0
+52,53,2025-01-24,10,Airport Road,Highway,,196.0,,Low,1.0,1.0
+53,54,2025-01-20,17,Airport Road,,Rain,411.0,,High,,0.0
+54,55,2025-02-05,11,Downtown,Main Road,Cloudy,249.0,,,1.0,0.0
+55,56,2025-01-26,11,Airport Road,Tunnel,Storm,432.0,,,0.0,1.0
+56,57,2025-02-03,4,Residential,,,,,Medium,,
+57,58,2025-01-03,7,Airport Road,Street,Storm,389.0,,Medium,0.0,1.0
+58,59,2025-01-05,6,Residential,Tunnel,Fog,,,High,0.0,0.0
+59,60,2025-03-13,5,Downtown,Tunnel,Clear,433.0,,Medium,,1.0
+60,61,2025-03-08,15,,Highway,Clear,176.0,70.4,Medium,1.0,0.0
+61,62,2025-02-27,3,Downtown,Street,Rain,,66.0,Low,1.0,0.0
+62,63,2025-01-10,5,City Center,Highway,Fog,,43.8,Low,,
+63,64,2025-03-12,21,,Main Road,Clear,,71.0,Low,0.0,
+64,65,2025-02-06,13,,Bridge,Clear,,,,1.0,0.0
+65,66,2025-03-23,23,Residential,,Cloudy,412.0,,,0.0,0.0
+66,67,2025-03-12,11,,Street,Fog,215.0,69.8,High,0.0,1.0
+67,68,2025-03-06,0,Airport Road,Street,Storm,,,High,1.0,0.0
+68,69,2025-01-19,2,Residential,Bridge,Fog,,53.3,Low,1.0,
+69,70,2025-02-04,16,Airport Road,Street,Rain,,,,1.0,1.0
+70,71,2025-01-26,2,Industrial,Tunnel,,,,,,
+71,72,2025-01-30,8,Airport Road,,Storm,,,High,0.0,1.0
+72,73,2025-01-11,7,,Main Road,Fog,111.0,,High,,
+73,74,2025-03-25,8,City Center,Street,Fog,101.0,,Medium,0.0,1.0
+74,75,2025-03-02,10,City Center,Main Road,Fog,73.0,53.2,,1.0,1.0
+75,76,2025-02-18,23,Residential,Tunnel,Cloudy,,31.1,High,0.0,1.0
+76,77,2025-03-12,3,Downtown,Tunnel,Cloudy,87.0,,Low,1.0,1.0
+77,78,2025-02-17,14,Airport Road,Street,Storm,454.0,,,0.0,0.0
+78,79,2025-03-15,9,City Center,Tunnel,Fog,341.0,56.6,Medium,,1.0
+79,80,2025-01-23,13,,Highway,Rain,172.0,53.1,Low,0.0,0.0
+80,81,2025-02-28,19,City Center,Tunnel,Fog,66.0,,,1.0,
+81,82,2025-01-20,22,Residential,,Storm,388.0,45.5,Medium,0.0,1.0
+82,83,2025-01-07,2,Downtown,Main Road,Fog,,,High,,0.0
+83,84,2025-03-22,10,Residential,Street,Storm,,24.8,,,0.0
+84,85,2025-02-21,12,Residential,Highway,Clear,167.0,,Low,1.0,0.0
+85,86,2025-02-14,6,,Tunnel,Fog,,,Low,0.0,0.0
+86,87,2025-02-04,20,Residential,Bridge,,103.0,,High,,0.0
+87,88,2025-03-11,10,City Center,Highway,Cloudy,,35.1,,,1.0
+88,89,2025-02-26,2,City Center,Tunnel,Cloudy,77.0,,,1.0,1.0
+89,90,2025-01-23,18,City Center,Main Road,Fog,,27.3,Medium,0.0,
+90,91,2025-01-02,4,City Center,Tunnel,Clear,165.0,47.7,Medium,0.0,
+91,92,2025-01-25,21,City Center,,Fog,,78.8,,,1.0
+92,93,2025-02-02,17,Industrial,Street,Storm,432.0,,,0.0,
+93,94,2025-01-23,19,Downtown,Bridge,,,,,0.0,0.0
+94,95,2025-02-17,2,City Center,Tunnel,Cloudy,214.0,78.8,,1.0,0.0
+95,96,2025-01-04,17,Residential,,Cloudy,,43.2,,1.0,1.0
+96,97,2025-02-12,20,City Center,Bridge,Clear,,,Low,,1.0
+97,98,2025-02-04,23,,Main Road,Clear,,,Low,0.0,
+98,99,2025-03-15,7,City Center,Tunnel,Fog,,72.3,Low,1.0,
+99,100,2025-02-28,9,Residential,Main Road,,,78.7,,1.0,
